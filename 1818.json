@@ -15,6 +15,16 @@
       "changeable": 0
     },
     {
+      "key": "py_jieyingshi",
+      "name": "界影视(T3)",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
       "key": "克隆合集",
       "name": "克隆合集",
       "type": 4,
