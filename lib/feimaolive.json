@@ -1,0 +1,34 @@
+[
+    {
+        "name": "澳洲电视",
+        "url": "https://i.mjh.nz/au/all/raw.m3u8"
+    },
+    {
+        "name": "油管谍战剧",
+        "url": "./cxlb.txt"
+    },
+    {
+        "name": "油管动作电影",
+        "url": "./dzdy.txt"
+    },
+    {
+        "name": "油管沙雕穿越",
+        "url": "./sdcy.txt"
+    },
+    {
+        "name": "沐辰直播",
+        "url": "http://168.138.9.147:50001/Sub?type=txt"
+    },
+    {
+        "name": "电影直播频道",
+        "url": "./hy.txt"
+    },
+        {
+        "name": "leo the truck",
+        "url": "./ls1.txt"
+    },
+    {
+        "name": "广播电台",
+        "url": "./收音机广播.txt"
+    }
+]

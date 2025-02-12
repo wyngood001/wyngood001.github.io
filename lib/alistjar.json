@@ -1,0 +1,22 @@
+{
+    "drives": [
+        {
+            "name": "小雅网盘1",
+            "search": true,
+            "searchable": true,
+            "server": "http://183.0.184.28:5678/"
+        },
+        {
+            "name": "小雅网盘2",
+            "search": true,
+            "searchable": true,
+            "server": "http://ip.luozia.cn:5678/"
+        },
+        {
+            "name": "小雅网盘3",
+            "search": true,
+            "searchable": true,
+            "server": "http://106.54.39.182:5678/"
+        }
+    ]
+}
