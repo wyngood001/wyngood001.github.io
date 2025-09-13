@@ -1,0 +1,230 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv"
+    },
+    "apibdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度云资源",
+      "detail": "https://api.apibdzy.com"
+    },
+    "sdzyapi": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源",
+      "detail": "https://sdzyapi.com"
+    },
+    "jyzyapi": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源",
+      "detail": "https://jyzyapi.com"
+    },
+    "taopianapi": {
+      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod",
+      "name": "淘片资源",
+      "detail": "https://taopianapi.com"
+    },
+    "hongniuzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源",
+      "detail": "https://www.hongniuzy2.com"
+    },
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源",
+      "detail": "https://ckzy.me"
+    },
+    "wolongzy": {
+      "api": "http://wolongzy.net/api.php/provide/vod",
+      "name": "卧龙资源",
+      "detail": "http://wolongzy.net"
+    },
+    "398zy": {
+      "api": "https://mac.398zy.com/api.php/provide/vod",
+      "name": "398资源",
+      "detail": "https://mac.398zy.com"
+    },
+    "cckimi": {
+      "api": "https://cc.cckimi.top/api.php/provide/vod",
+      "name": "CCKimi资源",
+      "detail": "https://cc.cckimi.top"
+    },
+    "yunhtml99": {
+      "api": "https://yun.html99.cn/api.php/provide/vod",
+      "name": "云资源",
+      "detail": "https://yun.html99.cn"
+    },
+    "hytys": {
+      "api": "https://api.hytys.cn/api.php/provide/vod",
+      "name": "短剧资源",
+      "detail": "https://dj.hytys.cn"
+    },
+    "guangsuapi": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源",
+      "detail": "https://api.guangsuapi.com"
+    },
+    "eyunzhu": {
+      "api": "https://api.eyunzhu.com/api/vatfs/resource_site_collect",
+      "name": "影视全搜索",
+      "detail": "https://api.eyunzhu.com"
+    },
+    "tvbox18": {
+      "api": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json",
+      "name": "Tvbox18接口",
+      "detail": "https://github.com/qirenzhidao/tvbox18"
+    },
+    "tcmove": {
+      "api": "https://www.tcmove.com/api.php/provide/vod",
+      "name": "太初电影",
+      "detail": "https://www.tcmove.com"
+    },
+    "wukongshipin": {
+      "api": "https://www.wukongshipin.com/api.php/provide/vod",
+      "name": "悟空视频",
+      "detail": "https://www.wukongshipin.com"
+    },
+    "wandouys": {
+      "api": "https://www.wandouys.com/api.php/provide/vod",
+      "name": "豌豆影视",
+      "detail": "https://www.wandouys.com"
+    },
+    "77kpp": {
+      "api": "https://www.77kpp.com/api.php/provide/vod",
+      "name": "77看片",
+      "detail": "https://www.77kpp.com"
+    },
+    "9dan": {
+      "api": "https://www.9dan.cc/api.php/provide/vod",
+      "name": "新飞影视",
+      "detail": "https://www.9dan.cc"
+    },
+    "ysuzy": {
+      "api": "https://www.ysuzy.com/api.php/provide/vod",
+      "name": "盐酥鸡",
+      "detail": "https://www.ysuzy.com"
+    },
+    "ljmovie": {
+      "api": "https://www.ljmovie.com/api.php/provide/vod",
+      "name": "蓝鲸电影",
+      "detail": "https://www.ljmovie.com"
+    },
+    "youtube": {
+      "api": "https://www.googleapis.com/youtube/v3/videos",
+      "name": "YouTube Data API",
+      "detail": "https://developers.google.com/youtube/v3"
+    },
+    "vimeo": {
+      "api": "https://api.vimeo.com/videos",
+      "name": "Vimeo API",
+      "detail": "https://developer.vimeo.com"
+    },
+    "tmdb": {
+      "api": "https://api.themoviedb.org/3/movie",
+      "name": "The Movie Database",
+      "detail": "https://developers.themoviedb.org/3"
+    },
+    "omdb": {
+      "api": "http://www.omdbapi.com/",
+      "name": "OMDb API",
+      "detail": "http://www.omdbapi.com"
+    },
+    "tvdb": {
+      "api": "https://api.tvmaze.com/search/shows",
+      "name": "TVMaze API",
+      "detail": "https://www.tvmaze.com/api"
+    },
+    "trakt": {
+      "api": "https://api.trakt.tv/movies",
+      "name": "Trakt API",
+      "detail": "https://trakt.docs.apiary.io"
+    },
+    "douban": {
+      "api": "https://api.douban.com/v2/movie/search",
+      "name": "豆瓣电影API",
+      "detail": "https://www.douban.com"
+    },
+    "mux": {
+      "api": "https://api.mux.com/video/v1/assets",
+      "name": "Mux Video API",
+      "detail": "https://docs.mux.com"
+    },
+    "apivideo": {
+      "api": "https://ws.api.video/videos",
+      "name": "api.video",
+      "detail": "https://docs.api.video"
+    },
+    "dailymotion": {
+      "api": "https://api.dailymotion.com/videos",
+      "name": "Dailymotion API",
+      "detail": "https://developer.dailymotion.com"
+    },
+    "brightcove": {
+      "api": "https://apis.media-platform.brightcove.com/v1.1/videos",
+      "name": "Brightcove API",
+      "detail": "https://apis.support.brightcove.com"
+    },
+    "kaltura": {
+      "api": "https://www.kaltura.com/api_v3/service/media/action/list",
+      "name": "Kaltura API",
+      "detail": "https://developer.kaltura.com"
+    },
+    "jwplayer": {
+      "api": "https://api.jwplatform.com/v1/videos",
+      "name": "JW Player API",
+      "detail": "https://developer.jwplayer.com"
+    },
+    "wowza": {
+      "api": "https://api.wowza.com/api/v1/servers",
+      "name": "Wowza API",
+      "detail": "https://www.wowza.com/developer"
+    },
+    "cloudflare": {
+      "api": "https://api.cloudflare.com/client/v4/accounts/{account_id}/stream",
+      "name": "Cloudflare Stream API",
+      "detail": "https://developers.cloudflare.com/stream"
+    },
+    "dacast": {
+      "api": "https://api.dacast.com/v2",
+      "name": "Dacast API",
+      "detail": "https://www.dacast.com"
+    },
+    "bilibili": {
+      "api": "https://api.bilibili.com/x/web-interface/search",
+      "name": "Bilibili API",
+      "detail": "https://www.bilibili.com"
+    },
+    "douyin": {
+      "api": "https://api.douyin.com/video/parse",
+      "name": "抖音解析API",
+      "detail": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+    },
+    "tiktok": {
+      "api": "https://api.tiktok.com/video/parse",
+      "name": "TikTok Download API",
+      "detail": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API"
+    },
+    "nullbr": {
+      "api": "https://nullbr.online/api",
+      "name": "Nullbr API",
+      "detail": "https://nullbr.online"
+    },
+    "aa1": {
+      "api": "https://api.aa1.cn/api/tvsearch",
+      "name": "电视聚合直播源API",
+      "detail": "https://api.aa1.cn"
+    },
+    "tianapi": {
+      "api": "https://api.tianapi.com/yingshi/",
+      "name": "影视资讯API",
+      "detail": "https://www.tianapi.com"
+    }
+  }
+}
